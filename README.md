@@ -108,3 +108,6 @@ A maioria dos avaliadores eram dos setores de software, TI e serviços de inform
 Aplicativos móveis: Aplicativos Android e iOS de terceiros.
 
 O zabbix na minha opnião é o melhor.
+
+
+Fonte: https://www.capterra.com.br/blog/1583/monitoramento-de-rede
